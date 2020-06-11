@@ -11,9 +11,9 @@
   "magisk": {
     "version": "20.3",
     "versionCode": "20300",
-    "link": "https://github.com/topjohnwu/Magisk/releases/download/v20.3/Magisk-v20.3.zip",
+    "link": "https://raw.githubusercontent.com/AndyCGYan/magisk_files/phh-magisk-ten/Magisk-v20.3-15bd2da8-phh.zip",
     "note": "https://raw.githubusercontent.com/topjohnwu/magisk_files/4f33b2656fd9ddc27fc7f9be4e83a747084ca908/notes.md",
-    "md5": "959e46971c2eb500b91a053b2f1c1a8c"
+    "md5": "1d66ec4d712dc04cfb18529ed6ef6659"
   },
   "stub": {
     "versionCode": "7",

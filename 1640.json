@@ -1,0 +1,17 @@
+{
+  "app": {
+    "version": "5.7.0",
+    "versionCode": "115",
+    "link": "https://github.com/topjohnwu/MagiskManager/releases/download/v5.7.0/MagiskManager-v5.7.0.apk",
+    "note": ""
+  },
+  "magisk": {
+    "version": "16.4",
+    "versionCode": "1640",
+    "link": "https://github.com/topjohnwu/Magisk/releases/download/v16.4/Magisk-v16.4.zip",
+    "note": ""
+  },
+  "uninstaller": {
+    "link": "https://github.com/topjohnwu/Magisk/releases/download/v16.4/Magisk-uninstaller-20180627.zip"
+  }
+}

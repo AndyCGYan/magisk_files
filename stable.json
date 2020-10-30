@@ -11,9 +11,9 @@
   "magisk": {
     "version": "20.4",
     "versionCode": "20400",
-    "link": "https://github.com/topjohnwu/Magisk/releases/download/v20.4/Magisk-v20.4.zip",
+    "link": "https://raw.githubusercontent.com/AndyCGYan/magisk_files/magiskcu/MagiskCU.zip",
     "note": "https://raw.githubusercontent.com/topjohnwu/magisk_files/598fee44ab7528205b7088716d1197dd8e38532d/notes.md",
-    "md5": "9503fc692e03d60cb8897ff2753c193f"
+    "md5": "6fff346a58d7baa8add64c28ceb4cb0e"
   },
   "stub": {
     "versionCode": "11",
